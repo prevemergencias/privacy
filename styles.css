@@ -1,0 +1,41 @@
+#privacy{
+   background-color: rgba(255, 255, 255, 0.9);
+   position: absolute;
+   width: 66%;
+   left: 15%;
+   top: 20%;
+   font-size: 25px;
+   text-align: justify;
+   text-justify: inter-word;
+   padding: 2%;
+   z-index: 10;
+}
+
+h3 {
+   text-align: center;
+}
+
+#header-left {
+   position: absolute;
+   width: 40%;
+   left: 40px;
+   top: 20px;
+}
+
+#header-right {
+   position: fixed;
+   right: 0%;
+   top: 0%;
+}
+
+#footer-left {
+   position: fixed;
+   left: 0%;
+   bottom: 0%;
+}
+
+#footer-right {
+   position: fixed;
+   right: 0%;
+   bottom: 0%;
+}
